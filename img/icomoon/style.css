@@ -1,0 +1,88 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-envelope {
+  width: 1.3330078125em;
+}
+
+.icon-Logo-five {
+  width: 1.7666015625em;
+}
+
+.icon-Logo-four {
+  width: 1.7666015625em;
+}
+
+.icon-Logo-one {
+  width: 1.7666015625em;
+}
+
+.icon-Logo-six {
+  width: 1.7666015625em;
+}
+
+.icon-Logo-three {
+  width: 1.7666015625em;
+}
+
+.icon-Logo-two {
+  width: 1.7666015625em;
+}
+
+.icon-smartphone {
+  width: 0.625em;
+}
+
+.icon-envelope1 {
+  width: 1.3330078125em;
+}
+
+.icon-fifth-logo {
+  width: 1.3408203125em;
+}
+
+.icon-first-logo {
+  width: 0.8720703125em;
+}
+
+.icon-fourth-logo-hover {
+  width: 2.0234375em;
+}
+
+.icon-second-logo {
+  width: 0.76953125em;
+}
+
+.icon-sixth-logo {
+  width: 2.0888671875em;
+}
+
+.icon-smartphone1 {
+  width: 0.625em;
+}
+
+.icon-third-logo {
+  width: 1.0712890625em;
+}
+
+.icon-smartphone111 {
+  width: 0.625em;
+}
+
+.icon-Social-links {
+  width: 4.681640625em;
+}
